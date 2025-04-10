@@ -1,0 +1,49 @@
+.dishes{
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    gap: 100px;
+    justify-content:center;
+    height:20px;
+    padding:30px;
+
+}
+.dish1 > img{
+    height:350px;
+    width:400px;
+    
+}
+.dish2>img{
+    height:350px;
+    width:400px;
+    border-radius:20px ;
+}
+.dish3>img{
+    height:350px;
+    width:400px;
+    border-radius:20px ;
+    
+}
+.dish4>a>img{
+    height:350px;
+    width:400px;
+    border-radius:20px ;
+}
+.dish5>a>img{
+    height:350px;
+    width:400px;
+    border-radius:20px ;
+    
+}
+.dish6>a>img{
+    height:350px;
+    width:400px;
+    border-radius:20px ;
+}
+
+
+.dishes p{
+    font-family:Cooper Black;
+    font-size: 27px;
+    
+}
